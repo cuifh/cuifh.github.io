@@ -15,6 +15,10 @@ Before moving to Austin, I received an M.S. degree in Statistics from [https://w
 
 == Publications
 (* Equal contribution)
+- Beyond EM Algorithm on Over-specified Two-Component Location-Scale Gaussian Mixtures. [https://arxiv.org/pdf/2205.11078.pdf \[pdf\]]\n
+  Tongzheng Ren\*, *Fuheng Cui*\*, Sujay Sanghavi, Nhat Ho.\n
+  (*Submitted*)
+
 - Towards Statistical and Computational Complexities of Polyak Step Size Gradient Descent. [https://arxiv.org/pdf/2110.07810.pdf \[pdf\]]\n
   Tongzheng Ren\*, *Fuheng Cui*\*, Alexia Atsidakou\*, Sujay Sanghavi, Nhat Ho.\n
   International Conference on Artificial Intelligence and Statistics (*AISTATS*) 2022
