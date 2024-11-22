@@ -2,7 +2,7 @@
 ==CUI Fuheng 
 
 ~~~
-{}{img_left}{ps.jpeg}{alt text}{168}{225}{}
+{}{img_left}{ps.jpeg}{alt text}{225}{168}{}
 PhD student,\n [https://stat.utexas.edu Department of Statistics and Data Sciences], \n[https://www.utexas.edu The University of Texas at Austin]\n
 E-mail: /cuifuheng/ \[@\] utexas \[DOT\] edu
 ~~~
@@ -12,16 +12,30 @@ I am a Statistics PhD student in University of Texas at Austin. I am fortunate t
 
 Before moving to Austin, I received an M.S. degree in Statistics from [https://www.uchicago.edu University of Chicago] in 2020, and a B.S. degree in Mathematics and Applied Mathematics from [https://www.fudan.edu.cn Fudan University] in 2018.
 
+In my free time, I enjoy watching movies, musicals, and traveling. So far, I’ve explored 23 countries across Asia, Europe, North America, and Africa (wishing for world peace). My favorite band is [https://en.wikipedia.org/wiki/Coldplay Coldplay], and my favorite musical is /[https://en.wikipedia.org/wiki/Into_the_Woods Into the Woods]/.
+
 
 == Publications
 (* Equal contribution)
+- Martingale Posteriors from Score Functions.\n
+  *Fuheng Cui*, Stephen G. Walker.\n
+  (Submitted) 2024
+
+- Martingale Posterior Distributions for Log-concave Density Functions. [https://arxiv.org/pdf/2401.14515 \[pdf\]]\n
+  *Fuheng Cui*, Stephen G. Walker.\n
+  (Submitted) 2024
+
+- A Bayesian Bootstrap for Mixture Models. [https://arxiv.org/pdf/2310.00880 \[pdf\]]\n
+  *Fuheng Cui*, Stephen G. Walker.\n
+  (Submitted) 2023
+
 - Beyond EM Algorithm on Over-specified Two-Component Location-Scale Gaussian Mixtures. [https://arxiv.org/pdf/2205.11078.pdf \[pdf\]]\n
   Tongzheng Ren\*, *Fuheng Cui*\*, Sujay Sanghavi, Nhat Ho.\n
-  (*Submitted*)
+  (Submitted) 2022
 
 - Towards Statistical and Computational Complexities of Polyak Step Size Gradient Descent. [https://arxiv.org/pdf/2110.07810.pdf \[pdf\]]\n
   Tongzheng Ren\*, *Fuheng Cui*\*, Alexia Atsidakou\*, Sujay Sanghavi, Nhat Ho.\n
-  International Conference on Artificial Intelligence and Statistics (*AISTATS*) 2022
+  International Conference on Artificial Intelligence and Statistics (AISTATS) 2022
 
 == Visiting
 - [https://www.westlake.edu.cn Westlake University] (2020 Research Assistant). Supervisor: [https://wang-math-westlake.com Dr. Zipeng Wang].
